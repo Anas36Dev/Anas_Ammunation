@@ -23,18 +23,14 @@ client_scripts {
     'src/RageUIx/items/*.lua',
 }
 
-escrow_ignore {
-    "config.lua"
-}
-
 shared_script {
     "config.lua"
 }
 
 client_scripts {
-    'client/client.lua',
+    'client.lua',
 }
 
 server_scripts {
-    'server/*.lua'
+    'server.lua'
 }
