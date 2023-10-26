@@ -15,12 +15,12 @@ server_scripts {
 
 --RageUIx
 client_scripts {
-    'src/RageUIx/RageUI.lua',
-    'src/RageUIx/Menu.lua',
-    'src/RageUIx/MenuController.lua',
-    'src/RageUIx/components/*.lua',
-    'src/RageUIx/elements/*.lua',
-    'src/RageUIx/items/*.lua',
+    'RageUIx/RageUI.lua',
+    'RageUIx/Menu.lua',
+    'RageUIx/MenuController.lua',
+    'RageUIx/components/*.lua',
+    'RageUIx/elements/*.lua',
+    'RageUIx/items/*.lua',
 }
 
 shared_script {
